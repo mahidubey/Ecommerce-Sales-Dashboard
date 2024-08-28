@@ -15,5 +15,5 @@ Trend Analysis: Shows sales trends, seasonal variations, and forecasts future pe
 Interactive Filters: Allows filtering data by date, product category, customer segment, and more.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mahidubey/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.jpeg?raw=true)
 
